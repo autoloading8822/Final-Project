@@ -1,0 +1,33 @@
+The required python toolkits are listed below:
+
+Task 1:
+
+PIL
+
+
+
+
+Task 2:
+
+io
+os
+PIL
+numpy
+matplotlib.pyplot
+IPython
+scipy
+itertools
+torch
+torch.autograd
+torch.nn
+torch.nn.functional
+torch.optim
+pickle
+torchvision
+torch.utils.data
+torchvision.transforms
+random
+
+
+
+
